@@ -1,2 +1,2 @@
-pip install opencv-python==3.2.0.8
+pip install opencv-python
 times
